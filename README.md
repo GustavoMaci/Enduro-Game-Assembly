@@ -61,4 +61,4 @@ Follow these steps to run the Enduro game on MARS MIPS Simulator:
 
 ## Acknowledgments
 
-I would like to express my sincere gratitude to Professor **Braulio Wanderley** for his exceptional guidance and mentorship throughout the Computer Architecture course. His profound knowledge, teaching methodology, and continuous support were instrumental in my understanding of computer architecture concepts and assembly programming. The skills and knowledge imparted during his classes provided the foundation that made this project possible. This game stands as a testament to the quality of education and inspiration provided by Professor Wanderley.
+I would like to express my sincere gratitude to Professor **Braulio Wanderley** for his exceptional guidance and mentorship throughout the Computer Architecture course. His profound knowledge, teaching methodology, and continuous support were instrumental in my understanding of computer architecture concepts and assembly programming. The skills and knowledge imparted during his classes provided the foundation that made this project possible. 
